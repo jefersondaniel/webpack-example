@@ -1,0 +1,11 @@
+:global {
+  @import '~normalize.css/normalize';
+  @import '~milligram-scss/dist/milligram';
+}
+
+.btn-success {
+  background-color: green;
+  color: white;
+  border: none;
+}
+
